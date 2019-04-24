@@ -1,1 +1,1 @@
-%teamcity.build.checkoutDir%\tools\terraform\terraform.exe init
+tools\terraform\terraform.exe init
