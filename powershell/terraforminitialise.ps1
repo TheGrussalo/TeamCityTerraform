@@ -1,1 +1,1 @@
-tools\terraform\terraform.exe init
+tools\terraform\terraform.exe init powershell
