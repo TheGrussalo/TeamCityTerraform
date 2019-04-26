@@ -1,1 +1,1 @@
-tools\terraform\terraform.exe plan -var arm_subscription_id=${ARM_SUBSCRIPTION_ID} -var arm_principle=${ARM_CLIENT_ID} -var arm_password=${ARM_PASSWORD} -var tenant_id=${ARM_TENANT_ID} tf
+tools\terraform\terraform.exe plan -var arm_subscription_id=${ARM_SUBSCRIPTION_ID} -var arm_principle=${ARM_CLIENT_ID} -var arm_password=${ARM_PRINCIPLE_PASSWORD} -var tenant_id=${ARM_TENANT_ID} tf
