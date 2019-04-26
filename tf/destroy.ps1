@@ -1,0 +1,1 @@
+tools\terraform\terraform.exe destroy -auto-approve tf
